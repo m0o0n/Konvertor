@@ -37,8 +37,7 @@ function handleChangeFromAmount(e){
   function toFix(num, afterDot) {
     return num.toFixed(afterDot);
   }
-  let x = 39.10000
-  console.log(x.toFixed(2))
+
   return (
 
     <div class="container pt-5 pb-5">
